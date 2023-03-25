@@ -1,0 +1,19 @@
+
+Visit https://www.N11_01.com/ page, go to the Login page and write Login related manual
+test cases (functional, UI, security etc). Only Login cases are required, no need to
+cover Sign up cases.
+2. Automate all found manual cases using any programming language and framework
+(Python or Java + Selenium would be preferable).
+- Test cases should meet POM requirements
+- No BDD(Cucumber, Quantum, Codeception, etc.) frameworks are allowed
+Code should be clean and readable
+
+
+https://www.N11_01.com/ sayfasını ziyaret edin,
+Login sayfasına gidin ve Login ile ilgili manuel test senaryolarını (fonksiyonel, UI, güvenlik vb.) yazın.
+Yalnızca Oturum açma durumları gereklidir, Kaydolma durumlarını kapsamaya gerek yoktur.
+2. Herhangi bir programlama dili ve çerçevesi kullanarak bulunan tüm manuel vakaları otomatikleştirin
+(Python veya Java + Selenium tercih edilir).
+- Test senaryoları POM gereksinimlerini karşılamalıdır
+- Hiçbir BDD(Cucumber, Quantum, Codeception, vb.) çerçevesine izin verilmez.
+Kod temiz ve okunabilir olmalıdır
